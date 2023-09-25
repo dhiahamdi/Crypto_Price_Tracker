@@ -26,12 +26,17 @@ Crypto Price Tracker is a web application that allows users to track cryptocurre
 2. Navigate to the project directory.
 
 
-3. Install dependencies.
+3. Install dependencies. 
 
+```
+npm install
+```
 
 4. Start the development server.
 
-
+```
+npm start 
+```
 5. Open your web browser and access the application at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
